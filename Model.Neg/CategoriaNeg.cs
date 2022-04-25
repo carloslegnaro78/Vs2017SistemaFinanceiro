@@ -8,12 +8,12 @@ namespace Model.Neg
     public class CategoriaNeg
     {
         private CategoriaDao objCategoriaDao;
-        //private ProdutoDao objProdutoDao;
+        private ProdutoDao objProdutoDao;
 
         public CategoriaNeg()
         {
             objCategoriaDao = new Dao.CategoriaDao();
-            //objProdutoDao = new ProdutoDao();
+            objProdutoDao = new ProdutoDao();
         }
 
         public void create(Categoria objCategoria)
@@ -154,14 +154,14 @@ namespace Model.Neg
             }
 
             //verificação depois se tem produto associado
-            //Produto objProduto = new Produto();
-           // objProduto.Categoria = objCategoria.IdCategoria;
-            //verificacao = !objProdutoDao.findProdutoPorCategoriaId(objProduto);
-            //if (!verificacao)
-            //{
-            //    objCategoria.Estado = 34;
-            //    return;
-            //}
+            Produto objProduto = new Produto();
+            objProduto.Categoria = objCategoria.IdCategoria;
+            verificacao = !objProdutoDao.findProdutoPorCategoriaId(objProduto);
+            if (!verificacao)
+            {
+                objCategoria.Estado = 34;
+                return;
+            }
 
             //se tudo tiver ok delete
             objCategoria.Estado = 99;
