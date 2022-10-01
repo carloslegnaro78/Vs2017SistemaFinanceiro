@@ -9,7 +9,9 @@ namespace Model.Dao
 
         private ConexaoDB()
         {
-            con = new SqlConnection("Data Source=PC-CARLOS\\SQLSERVER2019;Initial Catalog=financeiro;Integrated Security=True");
+            
+            con = new SqlConnection("Data Source=PC-CARLOS\\SQLSERVER2019;Initial Catalog=financeiro;User ID=legnaro;Password=1234");
+            
         }
 
         public static ConexaoDB saberEstado()

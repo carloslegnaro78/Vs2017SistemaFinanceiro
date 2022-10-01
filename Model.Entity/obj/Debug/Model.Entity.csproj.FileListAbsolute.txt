@@ -1,0 +1,7 @@
+C:\Projetos\2022\VisualStudio2017\Model.Entity\bin\Debug\Model.Entity.dll.config
+C:\Projetos\2022\VisualStudio2017\Model.Entity\bin\Debug\Model.Entity.dll
+C:\Projetos\2022\VisualStudio2017\Model.Entity\bin\Debug\Model.Entity.pdb
+C:\Projetos\2022\VisualStudio2017\Model.Entity\obj\Debug\Model.Entity.csproj.AssemblyReference.cache
+C:\Projetos\2022\VisualStudio2017\Model.Entity\obj\Debug\Model.Entity.csproj.CoreCompileInputs.cache
+C:\Projetos\2022\VisualStudio2017\Model.Entity\obj\Debug\Model.Entity.dll
+C:\Projetos\2022\VisualStudio2017\Model.Entity\obj\Debug\Model.Entity.pdb

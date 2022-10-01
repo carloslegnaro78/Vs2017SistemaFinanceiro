@@ -1,0 +1,11 @@
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Dao.dll.config
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Dao.dll
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Dao.pdb
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Entity.dll
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Entity.pdb
+C:\Projetos\2022\VisualStudio2017\Model.Dao\bin\Debug\Model.Entity.dll.config
+C:\Projetos\2022\VisualStudio2017\Model.Dao\obj\Debug\Model.Dao.csproj.AssemblyReference.cache
+C:\Projetos\2022\VisualStudio2017\Model.Dao\obj\Debug\Model.Dao.csproj.CoreCompileInputs.cache
+C:\Projetos\2022\VisualStudio2017\Model.Dao\obj\Debug\Model.Dao.csproj.CopyComplete
+C:\Projetos\2022\VisualStudio2017\Model.Dao\obj\Debug\Model.Dao.dll
+C:\Projetos\2022\VisualStudio2017\Model.Dao\obj\Debug\Model.Dao.pdb
